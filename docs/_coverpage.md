@@ -4,5 +4,6 @@
 
 
 
-[GitHub](https://mrzhangcy2014.github.io/)
-[Get Started](01/个人介绍.md)
+[GitHub主页](https://mrzhangcy2014.github.io/)
+
+[进入主站](01/个人介绍.md)
